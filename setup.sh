@@ -10,7 +10,7 @@ brew install mas
 brew install slack
 brew install discord
 brew install zoom
-#brew install 
+brew install brave-browser
 #brew install 
 #brew install 
 #brew install 
